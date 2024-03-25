@@ -179,7 +179,7 @@ temple.html
 ```
 ## OUTPUT
 
-![alt text](shree/mapapp/static/map.png)
+![Screenshot 2024-03-25 140708](https://github.com/SHREELEKHAS/NearMe/assets/149768910/c19ce839-e09c-4e27-93f1-2ea11e0cd849)
 
 ![alt text](shree/mapapp/static/ammantemple.png)
 
