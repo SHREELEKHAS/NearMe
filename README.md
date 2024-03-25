@@ -179,6 +179,8 @@ temple.html
 ```
 ## OUTPUT
 
+![alt text](shree/mapapp/static/map.png)
+
 ![alt text](shree/mapapp/static/ammantemple.png)
 
 ![alt text](shree/mapapp/static/college.png)
