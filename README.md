@@ -179,7 +179,7 @@ temple.html
 ```
 ## OUTPUT
 
-![alt text](shree/mapapp/static/map.png)
+![Uploading Screenshot 2024-03-25 140708.png…]()
 
 ![alt text](shree/mapapp/static/ammantemple.png)
 
