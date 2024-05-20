@@ -38,7 +38,7 @@ map.html
 <h3 align="center"><b> SHREE LEKHA.S(212223110052)</b></h3>
 <center>
 <img src="map.png" usemap="#NAGERCOIL" height="610" width="1450">
-<map name="CHENNAI">
+<map name="NAGERCOIL">
 <area shape="rectangle" coords="750,500,900,800" href="collegeandhospital.html"  title="Kanyakumari Government Medical College and Hospital">
 <area shape="rectangle" coords="600,300,900,800" href="college.html"  title="St. Xavier’s Catholic College of Engineering">
 <area shape="rectangle" coords="700,200,900,400" href="ammantemple.html"  title="Parvati Amman temple">
