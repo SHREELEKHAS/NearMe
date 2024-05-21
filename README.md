@@ -37,13 +37,13 @@ map.html
 <h1 align="center"><b>KANYAKUMARI</b></h1>
 <h3 align="center"><b> SHREE LEKHA.S(212223110052)</b></h3>
 <center>
-<img src="map.png" usemap="#NAGERCOIL" height="610" width="1450">
-<map name="NAGERCOIL">
-<area shape="rectangle" coords="750,500,900,800" href="collegeandhospital.html"  title="Kanyakumari Government Medical College and Hospital">
-<area shape="rectangle" coords="600,300,900,800" href="college.html"  title="St. Xavier’s Catholic College of Engineering">
-<area shape="rectangle" coords="700,200,900,400" href="ammantemple.html"  title="Parvati Amman temple">
-<area shape="rectangle" coords="600,200,700,600" href="temple.html"  title="Shri Nagaraja Temple">
-<area shape="rectangle" coords="900,100,200,300" href="lake.html"  title="Parakkai Lake">
+<img src="map1.png" usemap="#Nagercoil" height="800" width="1800">
+<map name="Nagercoil">
+<area shape="rect" coords="510,340,640,380" href="collegeandhospital.html"  title="Kanyakumari Government Medical College and Hospital">
+<area shape="rect" coords="430,90,530,150" href="college.html"  title="St. Xavier’s Catholic College of Engineering">
+<area shape="rect" coords="780,560,860,620" href="ammantemple.html"  title="Parvati Amman temple">
+<area shape="rect" coords="1010,160,1080,230"href="temple.html"  title="Shri Nagaraja Temple">
+<area shape="rect" coords="1250,500,1320,700" href="lake.html"  title="Parakkai Lake">
 </map>
 </center>
 </body>
